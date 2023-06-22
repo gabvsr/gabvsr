@@ -5,11 +5,12 @@ Me chamo Gabriel, tenho 23 anos e atualmente curso Analise e Desenolvimento de S
 
 ### Detalhes
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabvsr&show_icons=true&theme=holi)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabvsr&show_icons=true&theme=holi)](https://github.com/gabvsr)
 
 ### Linguagens Utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabvsr&show_icons=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabvsr&show_icons=true&theme=holi&layout=compact)](https://github.com/gabvsr)
+
 
 ### Contatos
 
