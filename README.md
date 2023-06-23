@@ -1,6 +1,6 @@
 ### Olá Mundo 👋
 
-###### Sobre Mim
+## Sobre Mim
 Me chamo Gabriel, tenho 23 anos e atualmente curso Analise e Desenolvimento de Sistemas pela UNINTER e participo de jornadas de desenvolvimento front-end para aprimorar meus conhecimentos e criatividade na elaboração de projetos, sempre fui amante da área de tecnologia e sempre tive interesse em entender como funciona determinados comandos, através desse interesse eu decidi me especializar e percebi que é a área em que eu quero atuar profissionalmente. Tenho conhecimento considerável em Front-End (HTML, CSS, JavaScript, React, Node.js).
 
 ### Detalhes
