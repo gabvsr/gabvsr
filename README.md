@@ -1,4 +1,4 @@
-[<img src='https://github.com/micaellimedeiros/micaellimedeiros/blob/master/image/computer-illustration.png?raw=true'>](https://www.linkedin.com/in/gabvsr/)
+[<img src='https://github.com/micaellimedeiros/micaellimedeiros/blob/master/image/computer-illustration.png?raw=true' align= left>](https://www.linkedin.com/in/gabvsr/)
 
 ## Olá Mundo 👋
 
