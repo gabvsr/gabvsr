@@ -12,6 +12,9 @@ No momento estudando Front-End!
 [<img src='https://github.com/gabvsr/gabvsr/assets/101618372/251c5240-0e9f-4848-8d05-6ff9a12c3496' alt='HTML5' height='30'>](https://html.spec.whatwg.org/multipage/)
 [<img src='https://raw.githubusercontent.com/kadir014/kadir014.github.io/master/assets/csslogo.png' alt='CSS' height='30'>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img src='https://juliomixco.com/static/f00708cb380288f97a3fbfa72862ce1b/19ca5/javascript-logo.png' alt='JavaScript' height='30'>](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript)
+[<img src='https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png' alt='Python' height='30'>](https://www.python.org/)
+[<img src='https://www.pinclipart.com/picdir/big/537-5374089_react-js-logo-clipart.png' alt='React' height='30'>](https://pt-br.react.dev/blog/2023/03/16/introducing-react-dev)
+
 
 ### Detalhes
 
