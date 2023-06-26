@@ -1,4 +1,4 @@
-[<img src='https://github.com/micaellimedeiros/micaellimedeiros/blob/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">](https://www.linkedin.com/in/gabvsr/)
+[<img src='https://github.com/micaellimedeiros/micaellimedeiros/blob/master/image/computer-illustration.png' min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">](https://www.linkedin.com/in/gabvsr/)
 <br>
 ## 👋 Hi there!
 
